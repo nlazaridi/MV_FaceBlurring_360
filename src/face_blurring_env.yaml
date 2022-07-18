@@ -119,5 +119,5 @@ dependencies:
     - torch==1.11.0
     - torchvision==0.12.0
     - typing-extensions==4.2.0
-    - urllib3==1.26.9
+    - urllib3==1.26
 prefix: /home/fkalaganis/anaconda3/envs/face_detection_py3_8
