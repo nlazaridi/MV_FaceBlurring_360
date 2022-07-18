@@ -40,7 +40,7 @@ parser.add_argument('--blur',
 
 parser.add_argument('--print_frame', 
                     type = int,
-                    default = 50,
+                    default = 20,
                     help='How often to print the frame number')
 
 
